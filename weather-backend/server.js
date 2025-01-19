@@ -8,7 +8,7 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-const MONGO_URI='mongodb+srv://rathanjayanath:oEPWEAko5PLYhFFp@cs696a.k4n1d.mongodb.net/'
+const MONGO_URI=//uri here
 
 // MongoDB Connection
 mongoose.connect(MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true })
