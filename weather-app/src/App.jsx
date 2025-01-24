@@ -210,15 +210,7 @@ const App = () => {
           <h3>About This App</h3>
           <p>This weather application allows you to check the current weather and 5-day forecast for any location.</p>
           <p>Simply enter a city name or zip code, or use your current location to get the latest weather updates.</p>
-          <p>
-            PM Accelerator! This platform serves as a guiding light for both aspiring and experienced Product Managers
-            (PMs). It is designed to provide training, education, and job opportunities, fostering continuous
-            improvement and shaping the next generation of PMs. Whether you are just starting out or have years of
-            experience, PM Accelerator offers valuable resources to help you find new opportunities.
-          </p>
-          <p>
-            For more Information: <a href="https://www.linkedin.com/school/pmaccelerator/">visit Linkedin</a>
-          </p>
+        
         </div>
       )}
 
